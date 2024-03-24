@@ -6,9 +6,10 @@
 #########################################################################
 #!/bin/bash
 
-# # Init the submodule
-# if [ ! -d ./glm ]; then
-#    git 
+# Init the submodule if haven't done yet
+if git submodule status | grep --quiet "^-"; then
+    git submodule init && git submodule update
+fi
 
 # Create build folder
 if [ ! -d ./build ]; then
