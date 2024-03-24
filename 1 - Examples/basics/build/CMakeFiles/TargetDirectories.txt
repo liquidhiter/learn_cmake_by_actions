@@ -1,5 +1,0 @@
-/home/maxin/Git/learn_cmake_by_action/1 - Examples/basics/build/CMakeFiles/demo.dir
-/home/maxin/Git/learn_cmake_by_action/1 - Examples/basics/build/CMakeFiles/demo_lib.dir
-/home/maxin/Git/learn_cmake_by_action/1 - Examples/basics/build/CMakeFiles/demo_lib_2.dir
-/home/maxin/Git/learn_cmake_by_action/1 - Examples/basics/build/CMakeFiles/edit_cache.dir
-/home/maxin/Git/learn_cmake_by_action/1 - Examples/basics/build/CMakeFiles/rebuild_cache.dir
