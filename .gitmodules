@@ -1,3 +1,6 @@
 [submodule "1_Examples/3rd_party_lib/glm"]
 	path = 1_Examples/3rd_party_lib/glm
 	url = https://github.com/g-truc/glm.git
+[submodule "1_Examples/3rd_party_lib_module/fmt"]
+	path = 1_Examples/3rd_party_lib_module/fmt
+	url = https://github.com/fmtlib/fmt.git
